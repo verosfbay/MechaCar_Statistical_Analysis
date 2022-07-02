@@ -5,7 +5,8 @@
 * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ## Summary Statistics on Suspension Coils
-In total summary, the variance is less than the 100 pounds requirement. In lot summary, lot 1 and 2 meet the requirement while lot 3 does not.
+In the total summary, the variance is less than the 100 pounds requirement. In the lot summary, lot 1 and 2 meet the requirement while lot 3 does not.
+
 <img width="415" alt="Screen Shot 2022-07-02 at 12 18 51 PM" src="https://user-images.githubusercontent.com/95447175/177013722-1ae379d3-48a6-4f92-946c-500e29a901e0.png">
 
 
