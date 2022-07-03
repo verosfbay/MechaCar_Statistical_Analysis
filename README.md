@@ -18,11 +18,11 @@ In the total summary, the variance is less than the 100 pounds requirement. In t
 For the t-test, the p-value is not less than the significance level of 0.05, therefore the sample mean is not statistically different from the population mean of 1500 PSI. We will not reject the null hypothesis. However, the p-value of Lot 3 is statistically different from the population mean so we will reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition.
-Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+In a statistical study that can quantify how the MechaCar performs against the competition, I would test the following metrics: safety rating, cost and fuel efficiency. I would test safety rating because that is probably the most important thing about a car, secondly, cost because most people care a lot about cost and want to get their money’s worth. Lastly, I would test fuel efficiency and potentially how friendly the car is to the environment. Electric and hydrogen vehicles are gaining popularity and utility, and is something that every car manufacturer should think about including in their car portfolio. 
 
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+The null hypothesis in testing the MechaCar against a competitor could be: the average fuel efficiency of the MechaCar is not significantly better from the average fuel efficiency of a Competitor model. 
+The alternate hypothesis then would be: the average fuel efficiency of the MechaCar is significantly different from the average fuel efficiency of a Competitor model. 
 
+I would perform a two sample t-test to compare the mean fuel efficiency of MechaCar with the mean fuel efficiency of the Competitor model. I would choose this type of test because it allows me to see if there a statistical difference between the distribution means from two samples. 
+
+In order to perform the test, we need to have as large a sample as possible from both MechaCar and a Competitor car model. At least 50 cars from each would do. I would also make sure that the Competitor model is a similar offering (similar in size and concept) to make testing sensible. 
