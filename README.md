@@ -19,6 +19,8 @@ In the total summary, the variance is less than the 100 pounds requirement. In t
 ## Study Design: MechaCar vs Competition.
 For the t-test, the p-value is not less than the significance level of 0.05, therefore the sample mean is not statistically different from the population mean of 1500 PSI. We will not reject the null hypothesis. However, the p-value of Lot 3 is statistically different from the population mean so we will reject the null hypothesis.
 
+Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+
 In your description, address the following questions:
 What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
