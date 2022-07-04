@@ -9,7 +9,7 @@ In the total summary, the variance is less than the 100 pounds requirement. In t
 
 <img width="415" alt="Screen Shot 2022-07-02 at 12 18 51 PM" src="https://user-images.githubusercontent.com/95447175/177013722-1ae379d3-48a6-4f92-946c-500e29a901e0.png">
 
-<img width="487" alt="Screen Shot 2022-07-03 at 9 25 36 AM" src="https://user-images.githubusercontent.com/95447175/177064798-eae95d3b-c9d5-4aa0-b415-cfa7cafce322.png">
+<img width="639" alt="Screen Shot 2022-07-03 at 7 05 18 PM" src="https://user-images.githubusercontent.com/95447175/177064849-1124d1d4-df90-4f5f-aa87-9b63983a08ba.png">
 
 For the t-test, the p-value is not less than the significance level of 0.05, therefore the sample mean is not statistically different from the population mean of 1500 PSI. We will not reject the null hypothesis. However, the p-value of Lot 3 is statistically different from the population mean so we will reject the null hypothesis.
 
