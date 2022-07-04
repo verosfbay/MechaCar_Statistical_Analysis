@@ -7,7 +7,7 @@
 ## Summary Statistics on Suspension Coils
 In the total summary, the variance is less than the 100 pounds requirement. In the lot summary, lot 1 and 2 meet the requirement while lot 3 does not.
 
-<img width="415" alt="Screen Shot 2022-07-02 at 12 18 51 PM" src="https://user-images.githubusercontent.com/95447175/177013722-1ae379d3-48a6-4f92-946c-500e29a901e0.png">
+<img width="489" alt="Screen Shot 2022-07-03 at 7 08 27 PM" src="https://user-images.githubusercontent.com/95447175/177065023-d73407e6-c60c-495a-a45c-33c24bbe99b8.png">
 
 <img width="639" alt="Screen Shot 2022-07-03 at 7 05 18 PM" src="https://user-images.githubusercontent.com/95447175/177064849-1124d1d4-df90-4f5f-aa87-9b63983a08ba.png">
 
