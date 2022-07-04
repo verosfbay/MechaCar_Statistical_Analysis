@@ -13,6 +13,12 @@ In the total summary, the variance is less than the 100 pounds requirement. In t
 
 For the t-test, the p-value is not less than the significance level of 0.05, therefore the sample mean is not statistically different from the population mean of 1500 PSI. We will not reject the null hypothesis. However, the p-value of Lot 3 is statistically different from the population mean so we will reject the null hypothesis.
 
+<img width="401" alt="Screen Shot 2022-07-03 at 7 11 54 PM" src="https://user-images.githubusercontent.com/95447175/177065248-21cc1943-a091-4dbf-b0dd-f61a4ff9eaec.png">
+
+<img width="396" alt="Screen Shot 2022-07-03 at 7 12 01 PM" src="https://user-images.githubusercontent.com/95447175/177065255-b82cf423-1490-46fd-afc2-551ccd13b190.png">
+
+<img width="414" alt="Screen Shot 2022-07-03 at 7 12 07 PM" src="https://user-images.githubusercontent.com/95447175/177065258-1be4b6f6-9bff-4299-9b3c-a94ecfdeabb0.png">
+
 ## Study Design: MechaCar vs Competition.
 In a statistical study that can quantify how the MechaCar performs against the competition, I would test the following metrics: safety rating, cost and fuel efficiency. I would test safety rating because that is probably the most important thing about a car, secondly, cost because most people care a lot about cost and want to get their money’s worth. Lastly, I would test fuel efficiency and potentially how friendly the car is to the environment. Electric and hydrogen vehicles are gaining popularity and utility, and is something that every car manufacturer should think about including in their car portfolio. 
 
